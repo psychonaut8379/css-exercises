@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.accept {
+    background-color: black;
+    color: white;
+}/* Add CSS Styling */
+
+.reject {
+    background-color: yellow;
+}
+
+.accept, .reject {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
